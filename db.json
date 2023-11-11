@@ -1,0 +1,45 @@
+{
+    "products": [
+      {
+        "productname": "SAMSUNG Galaxy S23 5G (Lavender, 256 GB)",
+        "productprice": "70000",
+        "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/g/l/3/-original-imagmg6gyu3zemex.jpeg?q=90",
+        "productdesc": "The Samsung Galaxy S23 is a series of high-end Android-based smartphones designed, developed, manufactured, and marketed by Samsung Electronics as part of its flagship Galaxy S series.",
+        "sellerid": "1",
+        "id": 1
+      },
+      {
+        "productname": "Samsung Galaxy S22 5G Plus (8 GB RAM, 128 GB ROM, Phantom Black)",
+        "productprice": "40000",
+        "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/b/h/c/-original-imagth5xwrg4gfyp.jpeg?q=90",
+        "productdesc": "The Samsung Galaxy S22 is a series of Android-based smartphones designed, developed, manufactured, and marketed by Samsung Electronics as part of its Galaxy S series. ",
+        "sellerid": "1",
+        "id": 2
+      },
+      {
+        "productname": "SAMSUNG Galaxy S22 Ultra 5G (Phantom White, 256 GB)",
+        "productprice": "84000",
+        "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/y/c/t/-original-imaggj699hhujaqe.jpeg?q=90",
+        "productdesc": "High-performance Display. Featuring a sleek and sophisticated design, the Samsung Galaxy S22 Ultra Smartphone features a large 17.31 cm (6.8) Dynamic AMOLED display with up to 120 Hz ref.",
+        "sellerid": "1",
+        "id": 3
+      }
+    ],
+    "cart": [],
+    "sellers": [
+      {
+        "sellername": "Alex",
+        "sellermobile": "3344553322",
+        "selleremail": "alex@gmail.com",
+        "sellerpassword": "awfawfw",
+        "id": 1
+      },
+      {
+        "sellername": "Ramesh",
+        "sellermobile": "3563452452",
+        "selleremail": "ramesh@gmail.com",
+        "sellerpassword": "aegaeg",
+        "id": 2
+      }
+    ]
+  }
